@@ -1,0 +1,2 @@
+# blacklistedweapons
+blacklistedweapons script FiveM
